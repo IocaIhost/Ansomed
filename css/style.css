@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+*:focus{
+    outline: 2px dotted black;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    max-width: 1160px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
